@@ -1,0 +1,165 @@
+*{
+    margin:0;
+     }
+.bg-img{
+    background: linear-gradient(0,0,0,5);
+    background-image: url(../images/donation1.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    color:black;
+    align-items: center;
+    background-size:cover;
+    background-position: top left;
+    text-align: center;
+    margin-top: 40px;
+}
+.head-title{
+    margin: 300px 40px 50px;
+}
+.head-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn-primary{
+    padding:18px 35px ;
+    border: 0;
+    font-weight: 700;
+    font-size: 20px;
+    color: aliceblue;
+    height: 64px; 
+    border-radius: 5px;
+    background-color: orangered;
+    align-items: center;
+}
+/* list-item */
+.second-list{
+    margin:50px 40px 50px ;
+    text-align: center;
+}
+.second-head{
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.second-prg{
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+}
+.li-tk{
+    justify-content: space-between;
+    margin-left: 50px;
+    padding: 30px 20px;
+}
+.pad{
+    padding: 20px 30px;
+    border: none;
+}
+.rare{
+    color:orangered;
+}
+.taka{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    gap: 25px;
+    
+}
+.donate{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.primary{
+    padding:18px 35px ;
+    border: 0;
+    font-weight: 700;
+    font-size: 20px;
+    color: aliceblue;
+    height: 64px; 
+    border-radius: 5px;
+    background-color: orangered;
+
+}
+.plan{
+    margin-top: 80px;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+.plan-sub-title{
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.serial{
+    display: flex;
+    text-align: left;
+    margin-top: 30px;
+    background:#ffffff ;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    gap: 25px;
+    
+    
+}
+.alt{
+    box-shadow:0 6px 5px rgba(0,0,0,06);
+    border-radius: 5px;
+    padding: 50px;
+    background-color: cornsilk;
+    
+}
+.h2{
+    margin: 25px;
+}
+.image{
+    text-align: left;
+    display:block;
+    
+}
+
+
+.we{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.wow{
+    
+    height: 500px;
+    width: 700px;
+}
+.nav{
+    text-align: right;
+}
+.ha{
+    text-align: right;
+}
+.colne{
+    display: flex;
+    margin-top: 100px;
+}
+.clov{
+    font-size: 30px;
+}
+.gib{
+    text-align: center;
+    margin-top: 50px;
+}
+.hi{
+    height: 50px;
+   
+}
+.ni{
+    font-size:px;
+    
+}
+
