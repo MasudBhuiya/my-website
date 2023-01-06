@@ -162,4 +162,26 @@
     font-size:px;
     
 }
+.tata{
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 50px 200px;
+    width: 500px;
+    height: 100px;
+    
+}
+.one{
+    padding:0px 30px ;
+    border: 0;
+    font-weight: 700;
+    font-size: 20px;
+    color: aliceblue;
+    height: 30px; 
+    border-radius: 5px;
+    background-color: orangered;
+}
+.to{
+    font-weight: 700;
+    font-size: 20px;
+}
 
